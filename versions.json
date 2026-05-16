@@ -3,6 +3,10 @@
     "Soul-JobCreator": {
       "version": "1.1.0",
       "name": "Soul JobCreator"
+    },
+    "Soul-Scoreboard": {
+      "version": "1.0.0",
+      "name": "Soul Scoreboard"
     }
   }
 }
