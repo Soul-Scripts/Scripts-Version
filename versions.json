@@ -12,5 +12,13 @@
       "version": "1.0.0",
       "name": "Soul StaffMenu"
     },
+    "Soul-Dj": {
+      "version": "1.0.0",
+      "name": "Soul Dj"
+    },
+    "Soul-PauseMenu": {
+      "version": "1.0.0",
+      "name": "Soul PauseMenu"
+    }
   }
 }
