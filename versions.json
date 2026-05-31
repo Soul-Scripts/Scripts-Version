@@ -19,6 +19,10 @@
     "Soul-PauseMenu": {
       "version": "1.0.1",
       "name": "Soul PauseMenu"
+    },
+    "Soul-BossMenu": {
+      "version": "1.0.0",
+      "name": "Soul BossMenu"
     }
   }
 }
