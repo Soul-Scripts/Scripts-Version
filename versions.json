@@ -23,6 +23,10 @@
     "Soul-BossMenu": {
       "version": "1.0.1",
       "name": "Soul BossMenu"
+    },
+    "Soul-StaffTag": {
+      "version": "1.0.0",
+      "name": "Soul StaffTag"
     }
   }
 }
